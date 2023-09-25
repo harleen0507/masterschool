@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>My The repository is used to manage the SQL codebase</h1>
 
-<p>My first paragraph.</p>
+<p>SQL Codebase.</p>
 
 </body>
 </html>
